@@ -26,4 +26,8 @@ public class Utility {
 		System.out.println("m4()");
 	}
 
+	public void m3()
+	{
+		System.out.println("m3()");
+	}
 }
